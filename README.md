@@ -1,5 +1,7 @@
 # Note Taker Assistant
 
+Developer - Steven Schmidt
+
 ## Overview
 
 A simple note-taking application with the ability to save via localstorage, and delete as well. 
